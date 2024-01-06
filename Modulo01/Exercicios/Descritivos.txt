@@ -1,0 +1,9 @@
+Hoje, com base nos conhecimentos que adquirimos, vamos realizar nossos primeiros exercícios em Python!
+
+Vamos explorar a ideia de um carro e criar variáveis correspondentes a diferentes atributos, como marca, cor, potência e valor.
+
+Para isso, cada variável será preenchida através de uma interação com o usuário, onde solicitaremos os dados necessários.
+
+Ao finalizar a coleta de informações, iremos exibir os dados utilizando interpolação de string para destacar os valores respectivos de cada atributo.
+
+Vamos começar a prática e explorar como podemos manipular e exibir informações de maneira eficiente em Python! Se surgirem dúvidas ao longo do processo, não hesitem em perguntar.

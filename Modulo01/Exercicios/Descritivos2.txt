@@ -1,0 +1,11 @@
+Hoje, vamos praticar nossas habilidades em Python criando variáveis para descrever um animal.
+
+Crie variáveis correspondentes a:
+
+Tipo de animal
+Cor
+Idade
+Som que o animal faz
+Cada variável deve ser preenchida com dados fornecidos pelo usuário, através de interações específicas. Depois de coletar as informações, utilize a Mascara de substituicao para exibir os dados de forma clara e organizada.
+
+Vamos garantir que nosso código seja capaz de representar informações sobre diferentes animais de maneira flexível e interativa. Se houver dúvidas ou se precisar de ajuda, estou aqui para orientar!

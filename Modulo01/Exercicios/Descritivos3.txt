@@ -1,0 +1,15 @@
+Hoje, iremos praticar nossas habilidades em Python criando variáveis para representar informações sobre alunos.
+
+Crie variáveis correspondentes a:
+
+Nome do aluno
+Idade
+Curso
+Média final
+Cada variável deve ser preenchida com dados fornecidos pelo usuário, através de interações específicas.
+
+Após a coleta de informações, utilize a Concatenacao de strings para exibir os dados de maneira legível e organizada.
+
+Este exercício ajudará a criar um programa flexível que pode lidar com informações sobre diferentes alunos. Vamos focar em como podemos interagir com o usuário para obter dados precisos e, em seguida, apresentar essas informações de forma clara.
+
+Se surgirem dúvidas ou se precisar de esclarecimentos, estou aqui para ajudar!
