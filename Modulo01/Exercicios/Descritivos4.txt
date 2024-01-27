@@ -1,0 +1,47 @@
+Exercício de Sorteio de Destinos de Viagem
+
+O objetivo deste exercício é criar um programa Python que permita ao usuário inserir seis destinos de viagem diferentes e, em seguida, realizar um sorteio aleatório para escolher um dos destinos digitados.
+
+O programa deve identificar qual destino foi sorteado e exibi-lo na tela.
+
+Passo a passo:
+
+Solicitar ao usuário que digite o seu nome
+
+Use a função input para receber o dado
+
+Solicitar ao usuário que digite o primeiro destino de viagem:
+
+Use a função input para receber o destino.
+
+Armazene o destino em uma variável, por exemplo, destino1.
+
+Repetir o passo 1 para os outros cinco destinos:
+
+Solicitar ao usuário que digite o segundo destino de viagem e armazená-lo em uma variável, por exemplo, destino2.
+
+Repetir este passo até obter todos os seis destinos (até destino6).
+
+Armazenar todos os destinos em uma lista:
+
+Crie uma lista chamada lista_destinos.
+
+Adicione todos os seis destinos à lista usando a função append.
+
+Realizar o sorteio aleatório:
+
+Use a biblioteca random para escolher aleatoriamente um destino da lista lista_destinos. Isso pode ser feito com a função random.choice.
+
+Exibir o destino sorteado:
+
+Mostre o destino sorteado na tela, usando uma instrução de impressão. Por exemplo, "Destino sorteado: [destino]".
+
+Exemplo:
+
+Se o destino sorteado for "Paris" e a entrada do usuário foi "Nova York", "Londres", "Barcelona", "Tóquio", "Roma" e "Paris", o programa deve mostrar:
+
+"Destino sorteado: Paris"
+
+"O destino Paris foi o sorteado!"
+
+Certifique-se de documentar seu código com comentários explicativos em cada etapa para torná-lo mais compreensível. Depois de concluir o exercício, seu programa deve solicitar os seis destinos, realizar o sorteio e mostrar o resultado na tela, como no exemplo acima.

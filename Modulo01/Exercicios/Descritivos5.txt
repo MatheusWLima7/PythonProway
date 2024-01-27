@@ -1,0 +1,45 @@
+Exercício de Sorteio de Nomes
+
+O objetivo deste exercício é criar um programa Python que permite ao usuário inserir seis nomes diferentes e, em seguida, realiza um sorteio aleatório para selecionar um dos nomes digitados. Além disso, o programa deve identificar qual nome foi sorteado e exibi-lo na tela.
+
+Passo a passo:
+
+Solicitar ao usuário que digite o primeiro nome:
+
+Use a função input para receber o nome.
+
+Armazene o nome em uma variável, por exemplo,
+
+nome1
+
+nome2
+
+nome3
+
+nome4
+
+nome5
+
+nome6
+
+Armazenar todos os nomes em uma lista:
+
+Crie uma lista chamada lista_nomes.
+
+Adicione todos os seis nomes à lista .
+
+Realizar o sorteio aleatório:
+
+Use a biblioteca random para escolher aleatoriamente um nome da lista lista_nomes. Isso pode ser feito com a função random.choice.
+
+Exibir o nome sorteado:
+
+Mostre o nome sorteado na tela, usando uma instrução de impressão. Por exemplo, "Nome sorteado: [nome]".
+
+Exemplo:
+
+Se o nome sorteado for "João" e a entrada do usuário foi "Maria", "João", "Luiz", "Carla", "Pedro", "Ana", o programa deve mostrar:
+
+"Nome sorteado: João"
+
+"O nome João foi o sorteado!"
