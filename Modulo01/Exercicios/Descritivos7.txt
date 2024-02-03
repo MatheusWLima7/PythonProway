@@ -1,0 +1,1 @@
+Neste exercicio voces irao criar uma estrutura de repeticao para fazer o incremento de 1 ate 100 incrementando 5 numeros por vez

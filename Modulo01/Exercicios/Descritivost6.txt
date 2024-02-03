@@ -1,0 +1,1 @@
+Neste exercicio voces irao criar uma estrutura de repeticao para fazer o decremento de 10 ate 0 baixando 1 numero por vez
